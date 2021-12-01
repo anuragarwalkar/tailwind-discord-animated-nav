@@ -1,6 +1,6 @@
 {
   "name": "tailwind-discoard-animated-nav",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.3.0",
@@ -12,13 +12,12 @@
   "scripts": {
     "start": "craco start",
     "build": "craco build",
-    "test": "react-scripts test",
+    "test": "craco test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-app"
     ]
   },
   "browserslist": {
