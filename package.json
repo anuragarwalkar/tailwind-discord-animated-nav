@@ -2,6 +2,7 @@
   "name": "tailwind-discoard-animated-nav",
   "version": "0.0.2",
   "private": true,
+  "homepage": "http://anuragarwalkar.github.io/tailwind-discoard-animated-nav/",
   "dependencies": {
     "@craco/craco": "^6.4.2",
     "react": "^17.0.2",
@@ -13,7 +14,8 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "craco build && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
