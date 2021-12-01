@@ -1,5 +1,18 @@
+import React from "react";
+import Sidebar from "./components/Sidebar";
+
 function App() {
-  return <p className="text-center text-green-500">Hi...</p>;
+  // useEffect(() => {
+  //   const className = "dark";
+  //   const bodyClass = window.document.body.classList;
+
+  //   true ? bodyClass.add(className) : bodyClass.remove(className);
+  // }, []);
+  return (
+    <div className="flex">
+      <Sidebar />
+    </div>
+  );
 }
 
 export default App;
