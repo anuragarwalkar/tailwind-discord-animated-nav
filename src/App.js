@@ -2,9 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-     
-    </div>
+   <p className="text-center text-green-500">Anurag</p>
   );
 }
 
