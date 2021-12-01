@@ -1,5 +1,3 @@
-require("tailwindcss/colors");
-
 module.exports = {
   enabled: true,
   mode: "jit",
