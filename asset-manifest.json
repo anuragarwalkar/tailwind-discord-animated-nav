@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tailwind-discoard-animated-nav/static/css/main.7e2e2c08.chunk.css",
+    "main.js": "/tailwind-discoard-animated-nav/static/js/main.e7257786.chunk.js",
+    "main.js.map": "/tailwind-discoard-animated-nav/static/js/main.e7257786.chunk.js.map",
+    "runtime-main.js": "/tailwind-discoard-animated-nav/static/js/runtime-main.d4d0eb3b.js",
+    "runtime-main.js.map": "/tailwind-discoard-animated-nav/static/js/runtime-main.d4d0eb3b.js.map",
+    "static/js/2.b1b181b0.chunk.js": "/tailwind-discoard-animated-nav/static/js/2.b1b181b0.chunk.js",
+    "static/js/2.b1b181b0.chunk.js.map": "/tailwind-discoard-animated-nav/static/js/2.b1b181b0.chunk.js.map",
+    "index.html": "/tailwind-discoard-animated-nav/index.html",
+    "static/css/main.7e2e2c08.chunk.css.map": "/tailwind-discoard-animated-nav/static/css/main.7e2e2c08.chunk.css.map",
+    "static/js/2.b1b181b0.chunk.js.LICENSE.txt": "/tailwind-discoard-animated-nav/static/js/2.b1b181b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4d0eb3b.js",
+    "static/js/2.b1b181b0.chunk.js",
+    "static/css/main.7e2e2c08.chunk.css",
+    "static/js/main.e7257786.chunk.js"
+  ]
+}
