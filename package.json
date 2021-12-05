@@ -2,7 +2,7 @@
   "name": "tailwind-discoard-animated-nav",
   "version": "0.0.2",
   "private": true,
-  "homepage": "http://anuragarwalkar.github.io/tailwind-discoard-animated-nav/",
+  "homepage": "http://anuragarwalkar.github.io/tailwind-discord-animated-nav/",
   "dependencies": {
     "@craco/craco": "^6.4.2",
     "react": "^17.0.2",
@@ -36,6 +36,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.8.8",
+    "gh-pages": "^3.2.3",
     "postcss": "^7.0.39",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
   }
